@@ -794,5 +794,7 @@ myDict = { 'Nashta':'breakfast' , 'Subah':'Morning', 'Raat':'Night', 'Sapana':'D
 # print(s)
 # print(len(s))
 
-
+'''
+3. Can we have set with 18(int) and 18(str) as values in it
+'''
 
